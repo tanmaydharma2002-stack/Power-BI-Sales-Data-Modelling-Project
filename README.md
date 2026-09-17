@@ -1,4 +1,4 @@
-# Sales Data Analytics & Modeling in Power BI
+# Sales Data Modeling & Analytics in Power BI
 
 ## Overview
 This repository contains an end-to-end Power BI data modeling project focused on transforming, restructuring, and modeling a highly complex, non-relational sales dataset into an optimized, report-ready data model. 
