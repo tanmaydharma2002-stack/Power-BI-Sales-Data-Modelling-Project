@@ -22,6 +22,9 @@ The primary objective of this project was to tackle real-world data transformati
 * **DAX & Analytical Foundation:**
   * Implemented core DAX measures to support business metrics across revenue, order volumes, and historical comparisons.
   * Built foundational logic to drive dynamic report visual filters seamlessly without redundant model relationships.
+ 
+## Point to be Noted:
+* This project is just for data modelling, data cleaning and transformation part purposes and NOT for visualizations and reporting part.
 
 ---
 ## Tools Used
